@@ -31,13 +31,13 @@
 - [ ] New Hampshire: Manchester
 - [ ] New Jersey: Newark
 - [ ] New Mexico: Albuquerque
-- [ ] New York: New York City
+- [x] New York: New York City, 2024 Work-vacation trip
 - [ ] North Carolina: Charlotte
 - [ ] North Dakota: Fargo
 - [x] Ohio: Cleveland, SHPE 2018 Conference/RockHall of Fame: 🎸 
 - [ ] Oklahoma: Oklahoma City
 - [ ] Oregon: Portland, Newport
-- [ ] Pennsylvania: Philadelphia
+- [x] Pennsylvania: Philadelphia, 2024 Work-vacation trip
 - [ ] Rhode Island: Providence
 - [ ] South Carolina: Columbia
 - [ ] South Dakota: Sioux Falls
