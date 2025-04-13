@@ -1,1 +1,52 @@
 # Travel-Vlog
+
+- [ ] Alabama: Birmingham
+- [ ] Alaska: Anchorage
+- [ ] Arizona: Phoenix
+- [ ] Arkansas: Little Rock
+- [x] California: Los Angeles,  Home 🏠 
+- [ ] Colorado: Denver
+- [ ] Connecticut: Bridgeport
+- [ ] Delaware: Wilmington
+- [ ] Florida: Jacksonville
+- [ ] Georgia: Atlanta
+- [ ] Hawaii: Honolulu
+- [ ] Idaho: Boise
+- [ ] Illinois: Chicago
+- [ ] Indiana: Indianapolis
+- [ ] Iowa: Des Moines
+- [ ] Kansas: Wichita
+- [ ] Kentucky: Louisville
+- [ ] Louisiana: New Orleans
+- [ ] Maine: Portland
+- [ ] Maryland: Baltimore
+- [ ] Massachusetts: Boston
+- [ ] Michigan: Detroit
+- [x] Minnesota: Minneapolis, Target/Friends 🎯 ✈️ 
+- [ ] Mississippi: Jackson
+- [ ] Missouri: Kansas City
+- [ ] Montana: Billings
+- [ ] Nebraska: Omaha
+- [x] Nevada: Las Vegas,  Proximity Family 🚗 
+- [ ] New Hampshire: Manchester
+- [ ] New Jersey: Newark
+- [ ] New Mexico: Albuquerque
+- [ ] New York: New York City
+- [ ] North Carolina: Charlotte
+- [ ] North Dakota: Fargo
+- [x] Ohio: Cleveland, SHPE 2018 Conference/RockHall of Fame: 🎸 
+- [ ] Oklahoma: Oklahoma City
+- [ ] Oregon: Portland, Newport
+- [ ] Pennsylvania: Philadelphia
+- [ ] Rhode Island: Providence
+- [ ] South Carolina: Columbia
+- [ ] South Dakota: Sioux Falls
+- [ ] Tennessee: Nashville
+- [x] Texas: San Antonio, Feb 2022 🐮 
+- [ ] Utah: Salt Lake City
+- [ ] Vermont: Burlington
+- [ ] Virginia: Virginia Beach
+- [x] Washington: Seattle, Google CSSI July 2017🗼
+- [ ] West Virginia: Charleston
+- [ ] Wisconsin: Milwaukee
+- [ ] Wyoming: Cheyenne
